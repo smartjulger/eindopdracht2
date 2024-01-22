@@ -1,8 +1,48 @@
 body {
-    background-color: #E9F0F2;
+    background-color: #DEE6E9;
 }
 
-h1 {
+nav {
+    padding-top: 1em;
+    display: flex;
     text-align: center;
-    color: #035B98;
+}
+
+
+li {
+    display: flex;
+    float:left;
+}
+
+a {
+    display: block;
+    padding: 1em;
+}
+
+.logo{
+    width: 3em;
+
+}
+
+main {
+    padding-top: 0.2em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+h2 {
+    text-align: center;
+}
+
+.banner{
+    width: 20em;
+}
+
+p {
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    padding-top: 30px;
 }
